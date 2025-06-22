@@ -1,2 +1,2 @@
-<a href="https://portfolio-daniel.pages.dev/">Website link</a><br>
+<a href="https://portfolio-daniel.pages.dev/" target="_blank">Website link</a><br>
 Hosted by CloudFlare
