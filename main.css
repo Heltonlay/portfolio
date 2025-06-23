@@ -7,6 +7,11 @@ body {
     padding-bottom: 1rem;
 }
 
+body::selection {
+    background-color: rgb(156, 156, 156);
+    color: rgb(0, 0, 0);
+}
+
 h2 {
     text-align: center;
     margin: 4rem 0;
@@ -35,6 +40,7 @@ a:hover {
 
 .margin-top li {
     margin-top: 0.3rem;
+    max-width: fit-content;
 }
 
 
